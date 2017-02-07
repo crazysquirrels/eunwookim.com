@@ -4,6 +4,6 @@
  
 </head>
 <body>
-<p>hello, i am pretty eunwoo</p>
+<p style="color:red;">albert is cool</p>
 </body>
 </html>
