@@ -4,6 +4,6 @@
  
 </head>
 <body>
-<p style="color:red;">albert is cool</p>
+<p style="color:red; font-weight:bold;" >albert is cool</p>
 </body>
 </html>
